@@ -42,10 +42,12 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 
 | Problem | Topic | Solution |
 |---|---|---|
-| [1. Two Sum](https://leetcode.com/problems/two-sum/) | Hash Map | [C++](leetcode/two-sum.cpp) |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | Hash Map | [C++](leetcode/01-two_sum.cpp) |
+| [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [C++](leetcode/1768-merge_strings_alternately.cpp) |
 
 ### Codeforces
 
 | Problem | Topic | Solution |
 |---|---|---|
-| [4A. Watermelon](https://codeforces.com/contest/4/problem/A) | Math / Conditions | [C++](codeforces/4a_watermelon.cpp) |
+| [4A. Watermelon](https://codeforces.com/contest/4/problem/A) | Math / Conditions | [C++](codeforces/4a-watermelon.cpp) |
+| [71A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | Strings | [C++](codeforces/71a-way_too_long_words.cpp) |
