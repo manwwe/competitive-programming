@@ -47,6 +47,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays / Two Pointers | [C++](leetcode/283-move_zeroes.cpp) |
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Arrays / Greedy | [C++](leetcode/334-increasing_triplet_subsequence.cpp) |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Strings / Two Pointers | [C++](leetcode/345-reverse_vowels_of_a_string.cpp) |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Strings / Two Pointers | [C++](leetcode/392-is_subsequence.cpp) |
 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Strings / Two Pointers | [C++](leetcode/443-string_compression.cpp) |
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Arrays / Greedy | [C++](leetcode/605-can_place_flowers.cpp) |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Strings / GCD | [C++](leetcode/1071-greatest_common_divisor_of_strings.cpp) |
@@ -60,6 +61,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [4A. Watermelon](https://codeforces.com/contest/4/problem/A) | Math / Conditions | [C++](codeforces/4a-watermelon.cpp) |
 | [50A. Domino piling](https://codeforces.com/problemset/problem/50/A) | Math / Greedy | [C++](codeforces/50a-domino_poling.cpp) |
 | [71A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | Strings | [C++](codeforces/71a-way_too_long_words.cpp) |
+| [112A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) | Strings / Comparison | [C++](codeforces/112a-petya_and_strigs.cpp) |
 | [158A. Next Round](https://codeforces.com/problemset/problem/158/A) | Counting / Conditions | [C++](codeforces/158a-next_round.cpp) |
 | [231A. Team](https://codeforces.com/problemset/problem/231/A) | Counting / Conditions | [C++](codeforces/231a-team.cpp) |
 | [263A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Matrices / Math | [C++](codeforces/263A-beautiful_matrix.cpp) |
