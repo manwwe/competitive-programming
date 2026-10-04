@@ -15,6 +15,8 @@ I'm using this repository to improve my problem-solving skills, learn data struc
 ```text
 competitive-programming/
 ├── leetcode/
+│   └── weekly_contests/
+│       └── 522/
 └── codeforces/
 ```
 
@@ -43,6 +45,9 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | Problem | Topic | Solution |
 |---|---|---|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Hash Map | [C++](leetcode/01-two_sum.cpp) |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Strings / Stack | [C++](leetcode/20-valid_parentheses.cpp) |
+| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Strings / Backtracking | [C++](leetcode/22-generate_parentheses.cpp) |
+| [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Strings / Stack | [C++](leetcode/32-longest_valid_parentheses.cpp) |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Strings / Two Pointers | [C++](leetcode/152-reverse_words_in_a_string.cpp) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays / Two Pointers | [C++](leetcode/283-move_zeroes.cpp) |
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Arrays / Greedy | [C++](leetcode/334-increasing_triplet_subsequence.cpp) |
@@ -50,9 +55,12 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Strings / Two Pointers | [C++](leetcode/392-is_subsequence.cpp) |
 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Strings / Two Pointers | [C++](leetcode/443-string_compression.cpp) |
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Arrays / Greedy | [C++](leetcode/605-can_place_flowers.cpp) |
+| [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Strings / Greedy | [C++](leetcode/678-valid_parenthesis_string.cpp) |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Strings / GCD | [C++](leetcode/1071-greatest_common_divisor_of_strings.cpp) |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Arrays | [C++](leetcode/1431-kids_with_the_greatest_number.cpp) |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [C++](leetcode/1768-merge_strings_alternately.cpp) |
+| [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/weekly_contests/522/01-minimum_rotation_to_dial_1.cpp) |
+| [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) (Weekly Contest 522) | Strings / Enumeration | [C++](leetcode/weekly_contests/522/02-minimum_rotation_to_dial_2.cpp) |
 
 ### Codeforces
 
