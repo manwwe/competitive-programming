@@ -56,6 +56,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Strings / Two Pointers | [C++](leetcode/443-string_compression.cpp) |
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Arrays / Greedy | [C++](leetcode/605-can_place_flowers.cpp) |
 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Strings / Greedy | [C++](leetcode/678-valid_parenthesis_string.cpp) |
+| [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Strings / Stack | [C++](leetcode/856-score_of_parentheses.cpp) |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Strings / GCD | [C++](leetcode/1071-greatest_common_divisor_of_strings.cpp) |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Arrays | [C++](leetcode/1431-kids_with_the_greatest_number.cpp) |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [C++](leetcode/1768-merge_strings_alternately.cpp) |
@@ -75,3 +76,4 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [236A. Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Strings / Counting | [C++](codeforces/236a-boy_or_girl.cpp) |
 | [263A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Matrices / Math | [C++](codeforces/263A-beautiful_matrix.cpp) |
 | [282A. Bit++](https://codeforces.com/problemset/problem/282/A) | Strings / Simulation | [C++](codeforces/282a-bit++.cpp) |
+| [339A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) | Strings / Sorting | [C++](codeforces/339a-helpful_maths.cpp) |
