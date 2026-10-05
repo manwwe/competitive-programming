@@ -72,5 +72,6 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [112A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) | Strings / Comparison | [C++](codeforces/112a-petya_and_strigs.cpp) |
 | [158A. Next Round](https://codeforces.com/problemset/problem/158/A) | Counting / Conditions | [C++](codeforces/158a-next_round.cpp) |
 | [231A. Team](https://codeforces.com/problemset/problem/231/A) | Counting / Conditions | [C++](codeforces/231a-team.cpp) |
+| [236A. Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Strings / Counting | [C++](codeforces/236a-boy_or_girl.cpp) |
 | [263A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Matrices / Math | [C++](codeforces/263A-beautiful_matrix.cpp) |
 | [282A. Bit++](https://codeforces.com/problemset/problem/282/A) | Strings / Simulation | [C++](codeforces/282a-bit++.cpp) |
