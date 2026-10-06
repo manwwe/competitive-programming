@@ -55,10 +55,13 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Strings / Two Pointers | [C++](leetcode/392-is_subsequence.cpp) |
 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Strings / Two Pointers | [C++](leetcode/443-string_compression.cpp) |
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Arrays / Greedy | [C++](leetcode/605-can_place_flowers.cpp) |
+| [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Arrays / Sliding Window | [C++](leetcode/643-maximum_average_subarray.cpp) |
 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Strings / Greedy | [C++](leetcode/678-valid_parenthesis_string.cpp) |
 | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Strings / Stack | [C++](leetcode/856-score_of_parentheses.cpp) |
+| [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Strings / Greedy | [C++](leetcode/921-minimum_add_to_make_parentheses_valid.cpp) |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Strings / GCD | [C++](leetcode/1071-greatest_common_divisor_of_strings.cpp) |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Arrays | [C++](leetcode/1431-kids_with_the_greatest_number.cpp) |
+| [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Strings / Sliding Window | [C++](leetcode/1456-maximun_number_of_vowels.cpp) |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [C++](leetcode/1768-merge_strings_alternately.cpp) |
 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/weekly_contests/522/01-minimum_rotation_to_dial_1.cpp) |
 | [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) (Weekly Contest 522) | Strings / Enumeration | [C++](leetcode/weekly_contests/522/02-minimum_rotation_to_dial_2.cpp) |
@@ -75,5 +78,6 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [231A. Team](https://codeforces.com/problemset/problem/231/A) | Counting / Conditions | [C++](codeforces/231a-team.cpp) |
 | [236A. Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Strings / Counting | [C++](codeforces/236a-boy_or_girl.cpp) |
 | [263A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Matrices / Math | [C++](codeforces/263A-beautiful_matrix.cpp) |
+| [281A. Word Capitalization](https://codeforces.com/problemset/problem/281/A) | Strings | [C++](codeforces/281a-word_capitalization.cpp) |
 | [282A. Bit++](https://codeforces.com/problemset/problem/282/A) | Strings / Simulation | [C++](codeforces/282a-bit++.cpp) |
 | [339A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) | Strings / Sorting | [C++](codeforces/339a-helpful_maths.cpp) |
