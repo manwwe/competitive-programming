@@ -76,9 +76,9 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [C++](leetcode/1768-merge_strings_alternately.cpp) |
 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Arrays / Hash Set | [C++](leetcode/2215-find_the_difference_of_two_arrays.cpp) |
 | [2333. Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Arrays / Binary Search / Greedy | [C++](leetcode/2333-minimum_sum_of_squared_diff.cpp) |
+| [2778. Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Arrays / Math | [C++](leetcode/2778-sum_of_square_of_special_element.cpp) |
 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/contests/weekly/522/01-minimum_rotation_to_dial_1.cpp) |
 | [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) (Weekly Contest 522) | Strings / Enumeration | [C++](leetcode/contests/weekly/522/02-minimum_rotation_to_dial_2.cpp) |
-
 | [Maximum Product Pair With Target Sum](https://leetcode.com/contest/biweekly-contest-193/problems/maximum-product-pair-with-target-sum/) (Biweekly Contest 193) | Arrays / Hash Map | [C++](leetcode/contests/biweekly/193/q1.cpp) |
 | [Longest Resilient Subarray I](https://leetcode.com/contest/biweekly-contest-193/problems/longest-resilient-subarray-i/) (Biweekly Contest 193) | Arrays / Math / GCD | [C++](leetcode/contests/biweekly/193/q2.cpp) |
 | [Longest Resilient Subarray II](https://leetcode.com/contest/biweekly-contest-193/problems/longest-resilient-subarray-ii/) (Biweekly Contest 193) | Arrays / Math / GCD | [C++](leetcode/contests/biweekly/193/q3.cpp) |
@@ -102,6 +102,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [2256B. Domino Tiles](https://codeforces.com/problemset/problem/2256/B) | Strings / Enumeration | [C++](codeforces/2256b-domino_tiles.cpp) |
 | [2266C. AND OR Sort](https://codeforces.com/problemset/problem/2266/C) | Strings / Prefix Counts / Enumeration | [C++](codeforces/2266c-and_or_sort.cpp) |
 | [2269B. Kiakio and Square Numbers](https://codeforces.com/problemset/problem/2269/B) | Math / Simulation / Counting | [C++](codeforces/2269b-kiakio_and_square_numbers.cpp) |
+| [2271A. Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | Math / Parity | [C++](codeforces/2271a-robot_odd_moves.cpp) |
 | 1124-div3 / A | Geometry / Construction | [C++](codeforces/codeforces_rouds/1124-div3/a.cpp) |
 | 1124-div3 / B | Stack / Simulation | [C++](codeforces/codeforces_rouds/1124-div3/b.cpp) |
 | 1124-div3 / C | Hash Map / Counting | [C++](codeforces/codeforces_rouds/1124-div3/c.cpp) |
