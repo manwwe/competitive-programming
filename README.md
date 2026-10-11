@@ -15,8 +15,11 @@ I'm using this repository to improve my problem-solving skills, learn data struc
 ```text
 competitive-programming/
 ├── leetcode/
-│   └── weekly_contests/
-│       └── 522/
+│   └── contests/
+│       ├── weekly/
+│       │   └── 522/
+│       └── biweekly/
+│           └── 193/
 └── codeforces/
     └── codeforces_rouds/
         └── 1124-div3/
@@ -73,8 +76,13 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [C++](leetcode/1768-merge_strings_alternately.cpp) |
 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Arrays / Hash Set | [C++](leetcode/2215-find_the_difference_of_two_arrays.cpp) |
 | [2333. Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Arrays / Binary Search / Greedy | [C++](leetcode/2333-minimum_sum_of_squared_diff.cpp) |
-| [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/weekly_contests/522/01-minimum_rotation_to_dial_1.cpp) |
-| [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) (Weekly Contest 522) | Strings / Enumeration | [C++](leetcode/weekly_contests/522/02-minimum_rotation_to_dial_2.cpp) |
+| [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/contests/weekly/522/01-minimum_rotation_to_dial_1.cpp) |
+| [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) (Weekly Contest 522) | Strings / Enumeration | [C++](leetcode/contests/weekly/522/02-minimum_rotation_to_dial_2.cpp) |
+
+| [Maximum Product Pair With Target Sum](https://leetcode.com/contest/biweekly-contest-193/problems/maximum-product-pair-with-target-sum/) (Biweekly Contest 193) | Arrays / Hash Map | [C++](leetcode/contests/biweekly/193/q1.cpp) |
+| [Longest Resilient Subarray I](https://leetcode.com/contest/biweekly-contest-193/problems/longest-resilient-subarray-i/) (Biweekly Contest 193) | Arrays / Math / GCD | [C++](leetcode/contests/biweekly/193/q2.cpp) |
+| [Longest Resilient Subarray II](https://leetcode.com/contest/biweekly-contest-193/problems/longest-resilient-subarray-ii/) (Biweekly Contest 193) | Arrays / Math / GCD | [C++](leetcode/contests/biweekly/193/q3.cpp) |
+| [Minimize Inversions in a Prefix Tree](https://leetcode.com/contest/biweekly-contest-193/problems/minimize-inversions-in-a-prefix-tree/) (Biweekly Contest 193) | Trie / Bitmask DP | [C++](leetcode/contests/biweekly/193/q4.cpp) |
 
 ### Codeforces
 
