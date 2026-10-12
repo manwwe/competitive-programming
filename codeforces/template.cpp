@@ -3,7 +3,7 @@
 using namespace std;
 
 typedef long long ll;
-vector<int> vi;
+#define ar array
 
 int main() {
     ios::sync_with_stdio(0);
