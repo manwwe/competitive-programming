@@ -58,6 +58,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Arrays / Greedy | [C++](leetcode/334-increasing_triplet_subsequence.cpp) |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Strings / Two Pointers | [C++](leetcode/345-reverse_vowels_of_a_string.cpp) |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Strings / Two Pointers | [C++](leetcode/392-is_subsequence.cpp) |
+| [394. Decode String](https://leetcode.com/problems/decode-string/) | Strings / Stack | [C++](leetcode/394-decode_string.cpp) |
 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Strings / Two Pointers | [C++](leetcode/443-string_compression.cpp) |
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Arrays / Greedy | [C++](leetcode/605-can_place_flowers.cpp) |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Arrays / Sliding Window | [C++](leetcode/643-maximum_average_subarray.cpp) |
@@ -80,6 +81,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Matrices / Enumeration | [C++](leetcode/2352-equal_row_and_column_pairs.cpp) |
 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Strings / Stack | [C++](leetcode/2390-removing_start_from_string.cpp) |
 | [2778. Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Arrays / Math | [C++](leetcode/2778-sum_of_square_of_special_element.cpp) |
+| [3727. Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Arrays / Sorting / Greedy | [C++](leetcode/3727-maximum_alternating_sum_of_squares.cpp) |
 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/contests/weekly/522/01-minimum_rotation_to_dial_1.cpp) |
 | [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) (Weekly Contest 522) | Strings / Enumeration | [C++](leetcode/contests/weekly/522/02-minimum_rotation_to_dial_2.cpp) |
 | [Maximum Product Pair With Target Sum](https://leetcode.com/contest/biweekly-contest-193/problems/maximum-product-pair-with-target-sum/) (Biweekly Contest 193) | Arrays / Hash Map | [C++](leetcode/contests/biweekly/193/q1.cpp) |
@@ -102,6 +104,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [281A. Word Capitalization](https://codeforces.com/problemset/problem/281/A) | Strings | [C++](codeforces/281a-word_capitalization.cpp) |
 | [282A. Bit++](https://codeforces.com/problemset/problem/282/A) | Strings / Simulation | [C++](codeforces/282a-bit++.cpp) |
 | [339A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) | Strings / Sorting | [C++](codeforces/339a-helpful_maths.cpp) |
+| [1913B. Swap and Delete](https://codeforces.com/problemset/problem/1913/B) | Strings / Counting / Greedy | [C++](codeforces/1913b-swap_and_delete.cpp) |
 | [2256B. Domino Tiles](https://codeforces.com/problemset/problem/2256/B) | Strings / Enumeration | [C++](codeforces/2256b-domino_tiles.cpp) |
 | [2264B. Knife's Pill Farm](https://codeforces.com/problemset/problem/2264/B) | Heap / Greedy | [C++](codeforces/2264b-knifes_pill_farm.cpp) |
 | [2266C. AND OR Sort](https://codeforces.com/problemset/problem/2266/C) | Strings / Prefix Counts / Enumeration | [C++](codeforces/2266c-and_or_sort.cpp) |
