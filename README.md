@@ -78,6 +78,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Strings / Counting / Sorting | [C++](leetcode/1657-determine_if_two_string_are_close.cpp) |
 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Arrays / Prefix Sum | [C++](leetcode/1732-find_the_highest_altitude.cpp) |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [C++](leetcode/1768-merge_strings_alternately.cpp) |
+| [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Linked List / Two Pointers | [C++](leetcode/2095-delete_midlle_node.cpp) |
 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Arrays / Hash Set | [C++](leetcode/2215-find_the_difference_of_two_arrays.cpp) |
 | [2333. Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Arrays / Binary Search / Greedy | [C++](leetcode/2333-minimum_sum_of_squared_diff.cpp) |
 | [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Matrices / Enumeration | [C++](leetcode/2352-equal_row_and_column_pairs.cpp) |
@@ -108,6 +109,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [339A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) | Strings / Sorting | [C++](codeforces/339a-helpful_maths.cpp) |
 | [1913B. Swap and Delete](https://codeforces.com/problemset/problem/1913/B) | Strings / Counting / Greedy | [C++](codeforces/1913b-swap_and_delete.cpp) |
 | [2256B. Domino Tiles](https://codeforces.com/problemset/problem/2256/B) | Strings / Enumeration | [C++](codeforces/2256b-domino_tiles.cpp) |
+| [2258A. Odd Eraser](https://codeforces.com/problemset/problem/2258/A) | Math / GCD | [C++](codeforces/2258a-odd_eraser.cpp) |
 | [2264B. Knife's Pill Farm](https://codeforces.com/problemset/problem/2264/B) | Heap / Greedy | [C++](codeforces/2264b-knifes_pill_farm.cpp) |
 | [2266C. AND OR Sort](https://codeforces.com/problemset/problem/2266/C) | Strings / Prefix Counts / Enumeration | [C++](codeforces/2266c-and_or_sort.cpp) |
 | [2269B. Kiakio and Square Numbers](https://codeforces.com/problemset/problem/2269/B) | Math / Simulation / Counting | [C++](codeforces/2269b-kiakio_and_square_numbers.cpp) |
