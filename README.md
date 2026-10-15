@@ -53,6 +53,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Strings / Stack | [C++](leetcode/20-valid_parentheses.cpp) |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Strings / Backtracking | [C++](leetcode/22-generate_parentheses.cpp) |
 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Strings / Stack | [C++](leetcode/32-longest_valid_parentheses.cpp) |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Binary Tree / DFS | [C++](leetcode/104-maximum_depth_binary_tree.cpp) |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Strings / Two Pointers | [C++](leetcode/152-reverse_words_in_a_string.cpp) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List | [C++](leetcode/206-reverse_linked_list.cpp) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays / Two Pointers | [C++](leetcode/283-move_zeroes.cpp) |
@@ -69,6 +70,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Arrays / Prefix Sum | [C++](leetcode/724-find_pivot_index.cpp) |
 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Stack / Simulation | [C++](leetcode/735-asteroid_collision.cpp) |
 | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Strings / Stack | [C++](leetcode/856-score_of_parentheses.cpp) |
+| [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Binary Tree / DFS | [C++](leetcode/872-leaf_similar_trees.cpp) |
 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Strings / Greedy | [C++](leetcode/921-minimum_add_to_make_parentheses_valid.cpp) |
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue / Sliding Window | [C++](leetcode/933-number_of_recent_calls.cpp) |
 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Strings / Counting | [C++](leetcode/1021-remove_outermost_parentheses.cpp) |
