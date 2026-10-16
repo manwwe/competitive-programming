@@ -55,13 +55,16 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Strings / Stack | [C++](leetcode/32-longest_valid_parentheses.cpp) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Binary Tree / DFS | [C++](leetcode/104-maximum_depth_binary_tree.cpp) |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Strings / Two Pointers | [C++](leetcode/152-reverse_words_in_a_string.cpp) |
+| [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree / BFS | [C++](leetcode/199-binary_tree_right_side_view.cpp) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List | [C++](leetcode/206-reverse_linked_list.cpp) |
+| [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Binary Tree / DFS | [C++](leetcode/236-lowest_common_ancestor_binary_tree.cpp) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays / Two Pointers | [C++](leetcode/283-move_zeroes.cpp) |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Linked List / Two Pointers | [C++](leetcode/328-odd_even_linked_list.cpp) |
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Arrays / Greedy | [C++](leetcode/334-increasing_triplet_subsequence.cpp) |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Strings / Two Pointers | [C++](leetcode/345-reverse_vowels_of_a_string.cpp) |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Strings / Two Pointers | [C++](leetcode/392-is_subsequence.cpp) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Strings / Stack | [C++](leetcode/394-decode_string.cpp) |
+| [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Binary Tree / DFS | [C++](leetcode/437-path_sum_lll.cpp) |
 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Strings / Two Pointers | [C++](leetcode/443-string_compression.cpp) |
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Arrays / Greedy | [C++](leetcode/605-can_place_flowers.cpp) |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Arrays / Sliding Window | [C++](leetcode/643-maximum_average_subarray.cpp) |
@@ -75,7 +78,10 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue / Sliding Window | [C++](leetcode/933-number_of_recent_calls.cpp) |
 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Strings / Counting | [C++](leetcode/1021-remove_outermost_parentheses.cpp) |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Strings / GCD | [C++](leetcode/1071-greatest_common_divisor_of_strings.cpp) |
+| [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Binary Tree / BFS | [C++](leetcode/1161-maximum_level_sum_binary_tree.cpp) |
+| [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Binary Tree / DFS | [C++](leetcode/1372-longest_zigzag_path_binary_tree.cpp) |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Arrays | [C++](leetcode/1431-kids_with_the_greatest_number.cpp) |
+| [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Binary Tree / DFS | [C++](leetcode/1448-count_good_nodes_binary_tree.cpp) |
 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Strings / Sliding Window | [C++](leetcode/1456-maximun_number_of_vowels.cpp) |
 | [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Arrays / Sliding Window | [C++](leetcode/1493-longest_subarray_of_1.cpp) |
 | [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Strings / Greedy | [C++](leetcode/1541-minimum_insertations_to_balance_a_parentheses.cpp) |
@@ -89,6 +95,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Strings / Stack | [C++](leetcode/2390-removing_start_from_string.cpp) |
 | [2778. Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Arrays / Math | [C++](leetcode/2778-sum_of_square_of_special_element.cpp) |
 | [2913. Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Arrays / Set / Enumeration | [C++](leetcode/2913-subarrays_disctinc_elements_sqaures.cpp) |
+| [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Arrays / Segment Tree / Lazy Propagation | [C++](leetcode/2916-subarray_distinc_element_sum_sequences.cpp) |
 | [3727. Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Arrays / Sorting / Greedy | [C++](leetcode/3727-maximum_alternating_sum_of_squares.cpp) |
 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/contests/weekly/522/01-minimum_rotation_to_dial_1.cpp) |
 | [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) (Weekly Contest 522) | Strings / Enumeration | [C++](leetcode/contests/weekly/522/02-minimum_rotation_to_dial_2.cpp) |
@@ -116,6 +123,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [2256B. Domino Tiles](https://codeforces.com/problemset/problem/2256/B) | Strings / Enumeration | [C++](codeforces/2256b-domino_tiles.cpp) |
 | [2258A. Odd Eraser](https://codeforces.com/problemset/problem/2258/A) | Math / GCD | [C++](codeforces/2258a-odd_eraser.cpp) |
 | [2258B1. Carrot Chopdown](https://codeforces.com/problemset/problem/2258/B1) | Counting / Prefix Sum / Enumeration | [C++](codeforces/2258b1-carrot_chopdown.cpp) |
+| [2258E. DivMEX](https://codeforces.com/problemset/problem/2258/E) | Number Theory / Sieve / Segment Tree | [C++](codeforces/2258e-divMEX.cpp) |
 | [2264B. Knife's Pill Farm](https://codeforces.com/problemset/problem/2264/B) | Heap / Greedy | [C++](codeforces/2264b-knifes_pill_farm.cpp) |
 | [2266C. AND OR Sort](https://codeforces.com/problemset/problem/2266/C) | Strings / Prefix Counts / Enumeration | [C++](codeforces/2266c-and_or_sort.cpp) |
 | [2269B. Kiakio and Square Numbers](https://codeforces.com/problemset/problem/2269/B) | Math / Simulation / Counting | [C++](codeforces/2269b-kiakio_and_square_numbers.cpp) |
