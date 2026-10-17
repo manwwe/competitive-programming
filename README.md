@@ -96,6 +96,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [2778. Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Arrays / Math | [C++](leetcode/2778-sum_of_square_of_special_element.cpp) |
 | [2913. Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Arrays / Set / Enumeration | [C++](leetcode/2913-subarrays_disctinc_elements_sqaures.cpp) |
 | [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Arrays / Segment Tree / Lazy Propagation | [C++](leetcode/2916-subarray_distinc_element_sum_sequences.cpp) |
+| [3551. Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Arrays / Sorting / Cycle Decomposition | [C++](leetcode/3551-minimum_swaps_to_sort.cpp) |
 | [3727. Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Arrays / Sorting / Greedy | [C++](leetcode/3727-maximum_alternating_sum_of_squares.cpp) |
 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/contests/weekly/522/01-minimum_rotation_to_dial_1.cpp) |
 | [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) (Weekly Contest 522) | Strings / Enumeration | [C++](leetcode/contests/weekly/522/02-minimum_rotation_to_dial_2.cpp) |
@@ -123,6 +124,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [2256B. Domino Tiles](https://codeforces.com/problemset/problem/2256/B) | Strings / Enumeration | [C++](codeforces/2256b-domino_tiles.cpp) |
 | [2258A. Odd Eraser](https://codeforces.com/problemset/problem/2258/A) | Math / GCD | [C++](codeforces/2258a-odd_eraser.cpp) |
 | [2258B1. Carrot Chopdown](https://codeforces.com/problemset/problem/2258/B1) | Counting / Prefix Sum / Enumeration | [C++](codeforces/2258b1-carrot_chopdown.cpp) |
+| [2258D. Magic Tiles](https://codeforces.com/problemset/problem/2258/D) | Sweep Line / Dynamic Programming | [C++](codeforces/2258d-magic_tiles.cpp) |
 | [2258E. DivMEX](https://codeforces.com/problemset/problem/2258/E) | Number Theory / Sieve / Segment Tree | [C++](codeforces/2258e-divMEX.cpp) |
 | [2264B. Knife's Pill Farm](https://codeforces.com/problemset/problem/2264/B) | Heap / Greedy | [C++](codeforces/2264b-knifes_pill_farm.cpp) |
 | [2266C. AND OR Sort](https://codeforces.com/problemset/problem/2266/C) | Strings / Prefix Counts / Enumeration | [C++](codeforces/2266c-and_or_sort.cpp) |
