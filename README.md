@@ -50,6 +50,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | Problem | Topic | Solution |
 |---|---|---|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Hash Map | [C++](leetcode/01-two_sum.cpp) |
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List / Math | [C++](leetcode/2-add_two_numbers.cpp) |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Strings / Stack | [C++](leetcode/20-valid_parentheses.cpp) |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Strings / Backtracking | [C++](leetcode/22-generate_parentheses.cpp) |
 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Strings / Stack | [C++](leetcode/32-longest_valid_parentheses.cpp) |
@@ -66,10 +67,12 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Strings / Stack | [C++](leetcode/394-decode_string.cpp) |
 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Binary Tree / DFS | [C++](leetcode/437-path_sum_lll.cpp) |
 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Strings / Two Pointers | [C++](leetcode/443-string_compression.cpp) |
+| [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Binary Search Tree / Recursion | [C++](leetcode/450-delete_node_in_a_bst.cpp) |
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Arrays / Greedy | [C++](leetcode/605-can_place_flowers.cpp) |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Arrays / Sliding Window | [C++](leetcode/643-maximum_average_subarray.cpp) |
 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Queue / Greedy / Simulation | [C++](leetcode/649-dota2_senate.cpp) |
 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Strings / Greedy | [C++](leetcode/678-valid_parenthesis_string.cpp) |
+| [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Binary Search Tree | [C++](leetcode/700-search_in_a_binary_search_tree.cpp) |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Arrays / Prefix Sum | [C++](leetcode/724-find_pivot_index.cpp) |
 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Stack / Simulation | [C++](leetcode/735-asteroid_collision.cpp) |
 | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Strings / Stack | [C++](leetcode/856-score_of_parentheses.cpp) |
@@ -85,6 +88,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Strings / Sliding Window | [C++](leetcode/1456-maximun_number_of_vowels.cpp) |
 | [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Arrays / Sliding Window | [C++](leetcode/1493-longest_subarray_of_1.cpp) |
 | [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Strings / Greedy | [C++](leetcode/1541-minimum_insertations_to_balance_a_parentheses.cpp) |
+| [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Binary Search Tree / Combinatorics / Recursion | [C++](leetcode/1569-number_of_ways_to_reorder_array_to_get_same_bst.cpp) |
 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Strings / Counting / Sorting | [C++](leetcode/1657-determine_if_two_string_are_close.cpp) |
 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Arrays / Prefix Sum | [C++](leetcode/1732-find_the_highest_altitude.cpp) |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [C++](leetcode/1768-merge_strings_alternately.cpp) |
@@ -114,6 +118,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [71A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | Strings | [C++](codeforces/71a-way_too_long_words.cpp) |
 | [112A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) | Strings / Comparison | [C++](codeforces/112a-petya_and_strigs.cpp) |
 | [158A. Next Round](https://codeforces.com/problemset/problem/158/A) | Counting / Conditions | [C++](codeforces/158a-next_round.cpp) |
+| [218B. Airport](https://codeforces.com/problemset/problem/218/B) | Heap / Greedy | [C++](codeforces/218b-airport.cpp) |
 | [231A. Team](https://codeforces.com/problemset/problem/231/A) | Counting / Conditions | [C++](codeforces/231a-team.cpp) |
 | [236A. Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Strings / Counting | [C++](codeforces/236a-boy_or_girl.cpp) |
 | [263A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Matrices / Math | [C++](codeforces/263A-beautiful_matrix.cpp) |
