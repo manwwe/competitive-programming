@@ -65,9 +65,11 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Strings / Two Pointers | [C++](leetcode/345-reverse_vowels_of_a_string.cpp) |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Strings / Two Pointers | [C++](leetcode/392-is_subsequence.cpp) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Strings / Stack | [C++](leetcode/394-decode_string.cpp) |
+| [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Graph / DFS | [C++](leetcode/399-evaluate_division.cpp) |
 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Binary Tree / DFS | [C++](leetcode/437-path_sum_lll.cpp) |
 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Strings / Two Pointers | [C++](leetcode/443-string_compression.cpp) |
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Binary Search Tree / Recursion | [C++](leetcode/450-delete_node_in_a_bst.cpp) |
+| [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Graph / DFS | [C++](leetcode/547-number_of_provinces.cpp) |
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Arrays / Greedy | [C++](leetcode/605-can_place_flowers.cpp) |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Arrays / Sliding Window | [C++](leetcode/643-maximum_average_subarray.cpp) |
 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Queue / Greedy / Simulation | [C++](leetcode/649-dota2_senate.cpp) |
@@ -75,10 +77,12 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Binary Search Tree | [C++](leetcode/700-search_in_a_binary_search_tree.cpp) |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Arrays / Prefix Sum | [C++](leetcode/724-find_pivot_index.cpp) |
 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Stack / Simulation | [C++](leetcode/735-asteroid_collision.cpp) |
+| [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Graph / DFS | [C++](leetcode/841-keys_and_rooms.cpp) |
 | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Strings / Stack | [C++](leetcode/856-score_of_parentheses.cpp) |
 | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Binary Tree / DFS | [C++](leetcode/872-leaf_similar_trees.cpp) |
 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Strings / Greedy | [C++](leetcode/921-minimum_add_to_make_parentheses_valid.cpp) |
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue / Sliding Window | [C++](leetcode/933-number_of_recent_calls.cpp) |
+| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Matrix / BFS | [C++](leetcode/994-rotting_oranges.cpp) |
 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Strings / Counting | [C++](leetcode/1021-remove_outermost_parentheses.cpp) |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Strings / GCD | [C++](leetcode/1071-greatest_common_divisor_of_strings.cpp) |
 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Binary Tree / BFS | [C++](leetcode/1161-maximum_level_sum_binary_tree.cpp) |
@@ -86,12 +90,15 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Arrays | [C++](leetcode/1431-kids_with_the_greatest_number.cpp) |
 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Binary Tree / DFS | [C++](leetcode/1448-count_good_nodes_binary_tree.cpp) |
 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Strings / Sliding Window | [C++](leetcode/1456-maximun_number_of_vowels.cpp) |
+| [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Graph / DFS | [C++](leetcode/1466-reorder_routes_to_make_all_paths_lead_to_the_city_zero.cpp) |
 | [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Arrays / Sliding Window | [C++](leetcode/1493-longest_subarray_of_1.cpp) |
 | [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Strings / Greedy | [C++](leetcode/1541-minimum_insertations_to_balance_a_parentheses.cpp) |
 | [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Binary Search Tree / Combinatorics / Recursion | [C++](leetcode/1569-number_of_ways_to_reorder_array_to_get_same_bst.cpp) |
 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Strings / Counting / Sorting | [C++](leetcode/1657-determine_if_two_string_are_close.cpp) |
 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Arrays / Prefix Sum | [C++](leetcode/1732-find_the_highest_altitude.cpp) |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Strings | [C++](leetcode/1768-merge_strings_alternately.cpp) |
+| [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Graph / BFS / Matrix | [C++](leetcode/1926-nearest_exit_from_entrance_in_maze.cpp) |
+| [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Arrays / Counting | [C++](leetcode/2089-find_target_indices_after_sorting_array.cpp) |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Linked List / Two Pointers | [C++](leetcode/2095-delete_midlle_node.cpp) |
 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Arrays / Hash Set | [C++](leetcode/2215-find_the_difference_of_two_arrays.cpp) |
 | [2333. Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Arrays / Binary Search / Greedy | [C++](leetcode/2333-minimum_sum_of_squared_diff.cpp) |
@@ -115,6 +122,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 |---|---|---|
 | [4A. Watermelon](https://codeforces.com/contest/4/problem/A) | Math / Conditions | [C++](codeforces/4a-watermelon.cpp) |
 | [50A. Domino piling](https://codeforces.com/problemset/problem/50/A) | Math / Greedy | [C++](codeforces/50a-domino_poling.cpp) |
+| [69A. Young Physicist](https://codeforces.com/problemset/problem/69/A) | Math / Vectors | [C++](codeforces/69a-young_physicist.cpp) |
 | [71A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | Strings | [C++](codeforces/71a-way_too_long_words.cpp) |
 | [112A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) | Strings / Comparison | [C++](codeforces/112a-petya_and_strigs.cpp) |
 | [158A. Next Round](https://codeforces.com/problemset/problem/158/A) | Counting / Conditions | [C++](codeforces/158a-next_round.cpp) |
