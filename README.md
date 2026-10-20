@@ -109,6 +109,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Arrays / Segment Tree / Lazy Propagation | [C++](leetcode/2916-subarray_distinc_element_sum_sequences.cpp) |
 | [3551. Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Arrays / Sorting / Cycle Decomposition | [C++](leetcode/3551-minimum_swaps_to_sort.cpp) |
 | [3727. Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Arrays / Sorting / Greedy | [C++](leetcode/3727-maximum_alternating_sum_of_squares.cpp) |
+| [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Arrays / Sorting / Enumeration | [C++](leetcode/3886-sum_of_sortable_integers.cpp) |
 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/contests/weekly/522/01-minimum_rotation_to_dial_1.cpp) |
 | [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) (Weekly Contest 522) | Strings / Enumeration | [C++](leetcode/contests/weekly/522/02-minimum_rotation_to_dial_2.cpp) |
 | [Maximum Product Pair With Target Sum](https://leetcode.com/contest/biweekly-contest-193/problems/maximum-product-pair-with-target-sum/) (Biweekly Contest 193) | Arrays / Hash Map | [C++](leetcode/contests/biweekly/193/q1.cpp) |
@@ -134,6 +135,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [282A. Bit++](https://codeforces.com/problemset/problem/282/A) | Strings / Simulation | [C++](codeforces/282a-bit++.cpp) |
 | [339A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) | Strings / Sorting | [C++](codeforces/339a-helpful_maths.cpp) |
 | [1913B. Swap and Delete](https://codeforces.com/problemset/problem/1913/B) | Strings / Counting / Greedy | [C++](codeforces/1913b-swap_and_delete.cpp) |
+| [2232B. Cake Leveling](https://codeforces.com/problemset/problem/2232/B) | Prefix Sum / Greedy | [C++](codeforces/2232b-cake_leveling.cpp) |
 | [2256B. Domino Tiles](https://codeforces.com/problemset/problem/2256/B) | Strings / Enumeration | [C++](codeforces/2256b-domino_tiles.cpp) |
 | [2258A. Odd Eraser](https://codeforces.com/problemset/problem/2258/A) | Math / GCD | [C++](codeforces/2258a-odd_eraser.cpp) |
 | [2258B1. Carrot Chopdown](https://codeforces.com/problemset/problem/2258/B1) | Counting / Prefix Sum / Enumeration | [C++](codeforces/2258b1-carrot_chopdown.cpp) |
