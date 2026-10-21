@@ -109,6 +109,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Arrays / Segment Tree / Lazy Propagation | [C++](leetcode/2916-subarray_distinc_element_sum_sequences.cpp) |
 | [3551. Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Arrays / Sorting / Cycle Decomposition | [C++](leetcode/3551-minimum_swaps_to_sort.cpp) |
 | [3727. Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Arrays / Sorting / Greedy | [C++](leetcode/3727-maximum_alternating_sum_of_squares.cpp) |
+| [3863. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Strings / Greedy | [C++](leetcode/3863-minimum_operations_to_sort_a_string.cpp) |
 | [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Arrays / Sorting / Enumeration | [C++](leetcode/3886-sum_of_sortable_integers.cpp) |
 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/contests/weekly/522/01-minimum_rotation_to_dial_1.cpp) |
 | [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) (Weekly Contest 522) | Strings / Enumeration | [C++](leetcode/contests/weekly/522/02-minimum_rotation_to_dial_2.cpp) |
@@ -122,6 +123,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | Problem | Topic | Solution |
 |---|---|---|
 | [4A. Watermelon](https://codeforces.com/contest/4/problem/A) | Math / Conditions | [C++](codeforces/4a-watermelon.cpp) |
+| [33A. What is for dinner?](https://codeforces.com/problemset/problem/33/A) | Arrays / Greedy | [C++](codeforces/33a-what_is_for_dinner.cpp) |
 | [50A. Domino piling](https://codeforces.com/problemset/problem/50/A) | Math / Greedy | [C++](codeforces/50a-domino_poling.cpp) |
 | [69A. Young Physicist](https://codeforces.com/problemset/problem/69/A) | Math / Vectors | [C++](codeforces/69a-young_physicist.cpp) |
 | [71A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | Strings | [C++](codeforces/71a-way_too_long_words.cpp) |
