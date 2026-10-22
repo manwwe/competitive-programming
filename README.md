@@ -58,25 +58,30 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Dynamic Programming | [C++](leetcode/62-unique_paths.cpp) |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Strings / Dynamic Programming | [C++](leetcode/72-edit_distance.cpp) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Binary Tree / DFS | [C++](leetcode/104-maximum_depth_binary_tree.cpp) |
+| [136. Single Number](https://leetcode.com/problems/single-number/) | Arrays / Bit Manipulation | [C++](leetcode/136-single_number.cpp) |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Strings / Two Pointers | [C++](leetcode/152-reverse_words_in_a_string.cpp) |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Arrays / Binary Search | [C++](leetcode/162-find_peak_element.cpp) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Arrays / Dynamic Programming | [C++](leetcode/198-house_robber.cpp) |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree / BFS | [C++](leetcode/199-binary_tree_right_side_view.cpp) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List | [C++](leetcode/206-reverse_linked_list.cpp) |
+| [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Trie / Design | [C++](leetcode/208-implement_trie_prefix_tree.cpp) |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Arrays / Selection | [C++](leetcode/215-kth_largest_element_in_an_array.cpp) |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Backtracking | [C++](leetcode/216-combination_sum_iii.cpp) |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Binary Tree / DFS | [C++](leetcode/236-lowest_common_ancestor_binary_tree.cpp) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays / Two Pointers | [C++](leetcode/283-move_zeroes.cpp) |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Linked List / Two Pointers | [C++](leetcode/328-odd_even_linked_list.cpp) |
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Arrays / Greedy | [C++](leetcode/334-increasing_triplet_subsequence.cpp) |
+| [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Bit Manipulation / Dynamic Programming | [C++](leetcode/338-counting_bits.cpp) |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Strings / Two Pointers | [C++](leetcode/345-reverse_vowels_of_a_string.cpp) |
 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Binary Search | [C++](leetcode/374-guess_number_higher_or_lower.cpp) |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Strings / Two Pointers | [C++](leetcode/392-is_subsequence.cpp) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Strings / Stack | [C++](leetcode/394-decode_string.cpp) |
 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Graph / DFS | [C++](leetcode/399-evaluate_division.cpp) |
+| [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Arrays / Sorting / Greedy | [C++](leetcode/435-non_overlapping_intervals.cpp) |
 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Binary Tree / DFS | [C++](leetcode/437-path_sum_lll.cpp) |
 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Strings / Two Pointers | [C++](leetcode/443-string_compression.cpp) |
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Binary Search Tree / Recursion | [C++](leetcode/450-delete_node_in_a_bst.cpp) |
+| [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Arrays / Sorting / Greedy | [C++](leetcode/452-minimum_number_of_arrows_to_burst_balloons.cpp) |
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Graph / DFS | [C++](leetcode/547-number_of_provinces.cpp) |
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Arrays / Greedy | [C++](leetcode/605-can_place_flowers.cpp) |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Arrays / Sliding Window | [C++](leetcode/643-maximum_average_subarray.cpp) |
@@ -86,12 +91,14 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Arrays / Dynamic Programming | [C++](leetcode/714-best_time_to_buy_and_sell_stock_with_transaction_fee.cpp) |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Arrays / Prefix Sum | [C++](leetcode/724-find_pivot_index.cpp) |
 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Stack / Simulation | [C++](leetcode/735-asteroid_collision.cpp) |
+| [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Arrays / Monotonic Stack | [C++](leetcode/739-daily_temperatures.cpp) |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Arrays / Dynamic Programming | [C++](leetcode/746-min_cost_climbing_stairs.cpp) |
 | [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | Dynamic Programming | [C++](leetcode/790-domino_and_tromino_tiling.cpp) |
 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Graph / DFS | [C++](leetcode/841-keys_and_rooms.cpp) |
 | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Strings / Stack | [C++](leetcode/856-score_of_parentheses.cpp) |
 | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Binary Tree / DFS | [C++](leetcode/872-leaf_similar_trees.cpp) |
 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Arrays / Binary Search | [C++](leetcode/875-koko_eating_bananas.cpp) |
+| [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Monotonic Stack / Design | [C++](leetcode/901-online_stock_span.cpp) |
 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Strings / Greedy | [C++](leetcode/921-minimum_add_to_make_parentheses_valid.cpp) |
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue / Sliding Window | [C++](leetcode/933-number_of_recent_calls.cpp) |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Matrix / BFS | [C++](leetcode/994-rotting_oranges.cpp) |
@@ -100,6 +107,8 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Dynamic Programming | [C++](leetcode/1137-n_th_tribonacci_number.cpp) |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Strings / Dynamic Programming | [C++](leetcode/1143-longest_common_subsequence.cpp) |
 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Binary Tree / BFS | [C++](leetcode/1161-maximum_level_sum_binary_tree.cpp) |
+| [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | Strings / Sorting / Binary Search | [C++](leetcode/1268-search_suggestions_system.cpp) |
+| [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Bit Manipulation | [C++](leetcode/1318-minimum_flips_to_make_a_or_b_equal_to_c.cpp) |
 | [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Binary Tree / DFS | [C++](leetcode/1372-longest_zigzag_path_binary_tree.cpp) |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Arrays | [C++](leetcode/1431-kids_with_the_greatest_number.cpp) |
 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Binary Tree / DFS | [C++](leetcode/1448-count_good_nodes_binary_tree.cpp) |
