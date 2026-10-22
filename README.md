@@ -55,9 +55,12 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Strings / Stack | [C++](leetcode/20-valid_parentheses.cpp) |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Strings / Backtracking | [C++](leetcode/22-generate_parentheses.cpp) |
 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Strings / Stack | [C++](leetcode/32-longest_valid_parentheses.cpp) |
+| [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Dynamic Programming | [C++](leetcode/62-unique_paths.cpp) |
+| [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Strings / Dynamic Programming | [C++](leetcode/72-edit_distance.cpp) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Binary Tree / DFS | [C++](leetcode/104-maximum_depth_binary_tree.cpp) |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Strings / Two Pointers | [C++](leetcode/152-reverse_words_in_a_string.cpp) |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Arrays / Binary Search | [C++](leetcode/162-find_peak_element.cpp) |
+| [198. House Robber](https://leetcode.com/problems/house-robber/) | Arrays / Dynamic Programming | [C++](leetcode/198-house_robber.cpp) |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree / BFS | [C++](leetcode/199-binary_tree_right_side_view.cpp) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List | [C++](leetcode/206-reverse_linked_list.cpp) |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Arrays / Selection | [C++](leetcode/215-kth_largest_element_in_an_array.cpp) |
@@ -80,8 +83,11 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Queue / Greedy / Simulation | [C++](leetcode/649-dota2_senate.cpp) |
 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Strings / Greedy | [C++](leetcode/678-valid_parenthesis_string.cpp) |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Binary Search Tree | [C++](leetcode/700-search_in_a_binary_search_tree.cpp) |
+| [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Arrays / Dynamic Programming | [C++](leetcode/714-best_time_to_buy_and_sell_stock_with_transaction_fee.cpp) |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Arrays / Prefix Sum | [C++](leetcode/724-find_pivot_index.cpp) |
 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Stack / Simulation | [C++](leetcode/735-asteroid_collision.cpp) |
+| [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Arrays / Dynamic Programming | [C++](leetcode/746-min_cost_climbing_stairs.cpp) |
+| [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | Dynamic Programming | [C++](leetcode/790-domino_and_tromino_tiling.cpp) |
 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Graph / DFS | [C++](leetcode/841-keys_and_rooms.cpp) |
 | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Strings / Stack | [C++](leetcode/856-score_of_parentheses.cpp) |
 | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Binary Tree / DFS | [C++](leetcode/872-leaf_similar_trees.cpp) |
@@ -91,6 +97,8 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Matrix / BFS | [C++](leetcode/994-rotting_oranges.cpp) |
 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Strings / Counting | [C++](leetcode/1021-remove_outermost_parentheses.cpp) |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Strings / GCD | [C++](leetcode/1071-greatest_common_divisor_of_strings.cpp) |
+| [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Dynamic Programming | [C++](leetcode/1137-n_th_tribonacci_number.cpp) |
+| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Strings / Dynamic Programming | [C++](leetcode/1143-longest_common_subsequence.cpp) |
 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Binary Tree / BFS | [C++](leetcode/1161-maximum_level_sum_binary_tree.cpp) |
 | [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Binary Tree / DFS | [C++](leetcode/1372-longest_zigzag_path_binary_tree.cpp) |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Arrays | [C++](leetcode/1431-kids_with_the_greatest_number.cpp) |
@@ -121,6 +129,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [3727. Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Arrays / Sorting / Greedy | [C++](leetcode/3727-maximum_alternating_sum_of_squares.cpp) |
 | [3863. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Strings / Greedy | [C++](leetcode/3863-minimum_operations_to_sort_a_string.cpp) |
 | [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Arrays / Sorting / Enumeration | [C++](leetcode/3886-sum_of_sortable_integers.cpp) |
+| [3942. Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Arrays / Math | [C++](leetcode/3942-minimum_operations_to_sort_a_permutation.cpp) |
 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/contests/weekly/522/01-minimum_rotation_to_dial_1.cpp) |
 | [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) (Weekly Contest 522) | Strings / Enumeration | [C++](leetcode/contests/weekly/522/02-minimum_rotation_to_dial_2.cpp) |
 | [Maximum Product Pair With Target Sum](https://leetcode.com/contest/biweekly-contest-193/problems/maximum-product-pair-with-target-sum/) (Biweekly Contest 193) | Arrays / Hash Map | [C++](leetcode/contests/biweekly/193/q1.cpp) |
@@ -146,6 +155,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [281A. Word Capitalization](https://codeforces.com/problemset/problem/281/A) | Strings | [C++](codeforces/281a-word_capitalization.cpp) |
 | [282A. Bit++](https://codeforces.com/problemset/problem/282/A) | Strings / Simulation | [C++](codeforces/282a-bit++.cpp) |
 | [339A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) | Strings / Sorting | [C++](codeforces/339a-helpful_maths.cpp) |
+| [1861C. Queries for the Array](https://codeforces.com/problemset/problem/1861/C) | Strings / Greedy / Simulation | [C++](codeforces/1861c-queries_for_the_array.cpp) |
 | [1913B. Swap and Delete](https://codeforces.com/problemset/problem/1913/B) | Strings / Counting / Greedy | [C++](codeforces/1913b-swap_and_delete.cpp) |
 | [2232B. Cake Leveling](https://codeforces.com/problemset/problem/2232/B) | Prefix Sum / Greedy | [C++](codeforces/2232b-cake_leveling.cpp) |
 | [2256B. Domino Tiles](https://codeforces.com/problemset/problem/2256/B) | Strings / Enumeration | [C++](codeforces/2256b-domino_tiles.cpp) |
