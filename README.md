@@ -67,7 +67,9 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Trie / Design | [C++](leetcode/208-implement_trie_prefix_tree.cpp) |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Arrays / Selection | [C++](leetcode/215-kth_largest_element_in_an_array.cpp) |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Backtracking | [C++](leetcode/216-combination_sum_iii.cpp) |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays / Hash Set | [C++](leetcode/217-contains_duplicate.cpp) |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Binary Tree / DFS | [C++](leetcode/236-lowest_common_ancestor_binary_tree.cpp) |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Strings / Counting | [C++](leetcode/242-valid_anagram.cpp) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays / Two Pointers | [C++](leetcode/283-move_zeroes.cpp) |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Linked List / Two Pointers | [C++](leetcode/328-odd_even_linked_list.cpp) |
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Arrays / Greedy | [C++](leetcode/334-increasing_triplet_subsequence.cpp) |
@@ -135,6 +137,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [2913. Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Arrays / Set / Enumeration | [C++](leetcode/2913-subarrays_disctinc_elements_sqaures.cpp) |
 | [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Arrays / Segment Tree / Lazy Propagation | [C++](leetcode/2916-subarray_distinc_element_sum_sequences.cpp) |
 | [3551. Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Arrays / Sorting / Cycle Decomposition | [C++](leetcode/3551-minimum_swaps_to_sort.cpp) |
+| [3644. Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Arrays / Bit Manipulation | [C++](leetcode/3644-maximum_k_to_sort_a_permutation.cpp) |
 | [3727. Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Arrays / Sorting / Greedy | [C++](leetcode/3727-maximum_alternating_sum_of_squares.cpp) |
 | [3863. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Strings / Greedy | [C++](leetcode/3863-minimum_operations_to_sort_a_string.cpp) |
 | [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Arrays / Sorting / Enumeration | [C++](leetcode/3886-sum_of_sortable_integers.cpp) |
@@ -164,6 +167,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [281A. Word Capitalization](https://codeforces.com/problemset/problem/281/A) | Strings | [C++](codeforces/281a-word_capitalization.cpp) |
 | [282A. Bit++](https://codeforces.com/problemset/problem/282/A) | Strings / Simulation | [C++](codeforces/282a-bit++.cpp) |
 | [339A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) | Strings / Sorting | [C++](codeforces/339a-helpful_maths.cpp) |
+| [1691E. Number of Groups](https://codeforces.com/problemset/problem/1691/E) | Sorting / Sweep Line / Disjoint Set Union | [C++](codeforces/1691e-number_of_groups.cpp) |
 | [1861C. Queries for the Array](https://codeforces.com/problemset/problem/1861/C) | Strings / Greedy / Simulation | [C++](codeforces/1861c-queries_for_the_array.cpp) |
 | [1913B. Swap and Delete](https://codeforces.com/problemset/problem/1913/B) | Strings / Counting / Greedy | [C++](codeforces/1913b-swap_and_delete.cpp) |
 | [2232B. Cake Leveling](https://codeforces.com/problemset/problem/2232/B) | Prefix Sum / Greedy | [C++](codeforces/2232b-cake_leveling.cpp) |
