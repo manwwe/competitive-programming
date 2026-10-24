@@ -22,7 +22,8 @@ competitive-programming/
 │           └── 193/
 └── codeforces/
     └── codeforces_rouds/
-        └── 1124-div3/
+        ├── 1124-div3/
+        └── 1129-div2/
 ```
 
 ## Platforms
@@ -55,6 +56,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Strings / Stack | [C++](leetcode/20-valid_parentheses.cpp) |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Strings / Backtracking | [C++](leetcode/22-generate_parentheses.cpp) |
 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Strings / Stack | [C++](leetcode/32-longest_valid_parentheses.cpp) |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Strings / Hash Map / Counting | [C++](leetcode/49-group_anagrams.cpp) |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Dynamic Programming | [C++](leetcode/62-unique_paths.cpp) |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Strings / Dynamic Programming | [C++](leetcode/72-edit_distance.cpp) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Binary Tree / DFS | [C++](leetcode/104-maximum_depth_binary_tree.cpp) |
@@ -131,6 +133,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Heap / Hash Set / Design | [C++](leetcode/2336-smallest_number_in_infinite_set.cpp) |
 | [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Matrices / Enumeration | [C++](leetcode/2352-equal_row_and_column_pairs.cpp) |
 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Strings / Stack | [C++](leetcode/2390-removing_start_from_string.cpp) |
+| [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Strings / Date Conversion / Intervals | [C++](leetcode/2409-count_days_spent_together.cpp) |
 | [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | Arrays / Heap / Two Pointers | [C++](leetcode/2462-total_cost_to_hire_k_workers.cpp) |
 | [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | Arrays / Sorting / Heap / Greedy | [C++](leetcode/2542-maximum_subsequence_score.cpp) |
 | [2778. Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Arrays / Math | [C++](leetcode/2778-sum_of_square_of_special_element.cpp) |
@@ -164,6 +167,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [231A. Team](https://codeforces.com/problemset/problem/231/A) | Counting / Conditions | [C++](codeforces/231a-team.cpp) |
 | [236A. Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Strings / Counting | [C++](codeforces/236a-boy_or_girl.cpp) |
 | [263A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Matrices / Math | [C++](codeforces/263A-beautiful_matrix.cpp) |
+| [271A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) | Math / Enumeration / Counting | [C++](codeforces/271a-beautiful_year.cpp) |
 | [281A. Word Capitalization](https://codeforces.com/problemset/problem/281/A) | Strings | [C++](codeforces/281a-word_capitalization.cpp) |
 | [282A. Bit++](https://codeforces.com/problemset/problem/282/A) | Strings / Simulation | [C++](codeforces/282a-bit++.cpp) |
 | [339A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) | Strings / Sorting | [C++](codeforces/339a-helpful_maths.cpp) |
@@ -180,6 +184,12 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [2266C. AND OR Sort](https://codeforces.com/problemset/problem/2266/C) | Strings / Prefix Counts / Enumeration | [C++](codeforces/2266c-and_or_sort.cpp) |
 | [2269B. Kiakio and Square Numbers](https://codeforces.com/problemset/problem/2269/B) | Math / Simulation / Counting | [C++](codeforces/2269b-kiakio_and_square_numbers.cpp) |
 | [2271A. Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | Math / Parity | [C++](codeforces/2271a-robot_odd_moves.cpp) |
+| [2277A. Subset Selecting](https://codeforces.com/contest/2277/problem/A) | Counting / Prefix Sum / Greedy | [C++](codeforces/codeforces_rouds/1129-div2/a.cpp) |
+| [2277B. Sequence Decreasing](https://codeforces.com/contest/2277/problem/B) | Arrays / Minimum / Conditions | [C++](codeforces/codeforces_rouds/1129-div2/b.cpp) |
+| [2277C. Edge Addeleting](https://codeforces.com/contest/2277/problem/C) | Tree / BFS / Distances | [C++](codeforces/codeforces_rouds/1129-div2/c.cpp) |
+| [2277D1. Number Operating (Easy Version)](https://codeforces.com/contest/2277/problem/D1) | Math / Greedy / Enumeration | [C++](codeforces/codeforces_rouds/1129-div2/d1.cpp) |
+| [2277D2. Number Operating (Hard Version)](https://codeforces.com/contest/2277/problem/D2) | Math / Recursion / Prefix Sum | [C++](codeforces/codeforces_rouds/1129-div2/d2.cpp) |
+| [2277F. Token Re-Moving](https://codeforces.com/contest/2277/problem/F) | Tree / Disjoint Set Union / Subtree Sums | [C++](codeforces/codeforces_rouds/1129-div2/f.cpp) |
 | 1124-div3 / A | Geometry / Construction | [C++](codeforces/codeforces_rouds/1124-div3/a.cpp) |
 | 1124-div3 / B | Stack / Simulation | [C++](codeforces/codeforces_rouds/1124-div3/b.cpp) |
 | 1124-div3 / C | Hash Map / Counting | [C++](codeforces/codeforces_rouds/1124-div3/c.cpp) |
