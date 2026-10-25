@@ -111,6 +111,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Dynamic Programming | [C++](leetcode/1137-n_th_tribonacci_number.cpp) |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Strings / Dynamic Programming | [C++](leetcode/1143-longest_common_subsequence.cpp) |
 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Binary Tree / BFS | [C++](leetcode/1161-maximum_level_sum_binary_tree.cpp) |
+| [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Matrix / DFS / Flood Fill | [C++](leetcode/1254-number_of_closed_inslands.cpp) |
 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | Strings / Sorting / Binary Search | [C++](leetcode/1268-search_suggestions_system.cpp) |
 | [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Bit Manipulation | [C++](leetcode/1318-minimum_flips_to_make_a_or_b_equal_to_c.cpp) |
 | [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Binary Tree / DFS | [C++](leetcode/1372-longest_zigzag_path_binary_tree.cpp) |
