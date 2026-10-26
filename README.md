@@ -77,6 +77,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Arrays / Greedy | [C++](leetcode/334-increasing_triplet_subsequence.cpp) |
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Bit Manipulation / Dynamic Programming | [C++](leetcode/338-counting_bits.cpp) |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Strings / Two Pointers | [C++](leetcode/345-reverse_vowels_of_a_string.cpp) |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Arrays / Hash Map / Bucket Sort | [C++](leetcode/347-top_k_frequent_elements.cpp) |
 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Binary Search | [C++](leetcode/374-guess_number_higher_or_lower.cpp) |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Strings / Two Pointers | [C++](leetcode/392-is_subsequence.cpp) |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Strings / Stack | [C++](leetcode/394-decode_string.cpp) |
@@ -141,6 +142,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [2913. Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Arrays / Set / Enumeration | [C++](leetcode/2913-subarrays_disctinc_elements_sqaures.cpp) |
 | [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Arrays / Segment Tree / Lazy Propagation | [C++](leetcode/2916-subarray_distinc_element_sum_sequences.cpp) |
 | [3551. Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Arrays / Sorting / Cycle Decomposition | [C++](leetcode/3551-minimum_swaps_to_sort.cpp) |
+| [3619. Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Matrix / DFS | [C++](leetcode/3619-count_islands_with_total_value_divisible_by_k.cpp) |
 | [3644. Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Arrays / Bit Manipulation | [C++](leetcode/3644-maximum_k_to_sort_a_permutation.cpp) |
 | [3727. Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Arrays / Sorting / Greedy | [C++](leetcode/3727-maximum_alternating_sum_of_squares.cpp) |
 | [3863. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Strings / Greedy | [C++](leetcode/3863-minimum_operations_to_sort_a_string.cpp) |
