@@ -148,6 +148,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [3863. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Strings / Greedy | [C++](leetcode/3863-minimum_operations_to_sort_a_string.cpp) |
 | [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Arrays / Sorting / Enumeration | [C++](leetcode/3886-sum_of_sortable_integers.cpp) |
 | [3942. Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Arrays / Math | [C++](leetcode/3942-minimum_operations_to_sort_a_permutation.cpp) |
+| [3963. Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Matrix / Construction | [C++](leetcode/3963-create_grid_with_exactly_one_path.cpp) |
 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/contests/weekly/522/01-minimum_rotation_to_dial_1.cpp) |
 | [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) (Weekly Contest 522) | Strings / Enumeration | [C++](leetcode/contests/weekly/522/02-minimum_rotation_to_dial_2.cpp) |
 | [Maximum Product Pair With Target Sum](https://leetcode.com/contest/biweekly-contest-193/problems/maximum-product-pair-with-target-sum/) (Biweekly Contest 193) | Arrays / Hash Map | [C++](leetcode/contests/biweekly/193/q1.cpp) |
