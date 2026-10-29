@@ -21,6 +21,8 @@ competitive-programming/
 │       └── biweekly/
 │           └── 193/
 └── codeforces/
+    ├── 100_easy_problems_bootcamps/
+    ├── template.rs
     └── codeforces_rouds/
         ├── 1124-div3/
         └── 1129-div2/
@@ -56,6 +58,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Strings / Stack | [C++](leetcode/20-valid_parentheses.cpp) |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Strings / Backtracking | [C++](leetcode/22-generate_parentheses.cpp) |
 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Strings / Stack | [C++](leetcode/32-longest_valid_parentheses.cpp) |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Matrix / Hash Set | [C++](leetcode/36-valid_sudoku.cpp) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Strings / Hash Map / Counting | [C++](leetcode/49-group_anagrams.cpp) |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Dynamic Programming | [C++](leetcode/62-unique_paths.cpp) |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Strings / Dynamic Programming | [C++](leetcode/72-edit_distance.cpp) |
@@ -145,6 +148,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [3619. Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Matrix / DFS | [C++](leetcode/3619-count_islands_with_total_value_divisible_by_k.cpp) |
 | [3644. Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Arrays / Bit Manipulation | [C++](leetcode/3644-maximum_k_to_sort_a_permutation.cpp) |
 | [3727. Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Arrays / Sorting / Greedy | [C++](leetcode/3727-maximum_alternating_sum_of_squares.cpp) |
+| [3841. Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Tree / Heavy-Light Decomposition / Fenwick Tree / Bit Manipulation | [C++](leetcode/3841-palindromic_path_queries_in_a_tree.cpp) |
 | [3863. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Strings / Greedy | [C++](leetcode/3863-minimum_operations_to_sort_a_string.cpp) |
 | [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Arrays / Sorting / Enumeration | [C++](leetcode/3886-sum_of_sortable_integers.cpp) |
 | [3942. Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Arrays / Math | [C++](leetcode/3942-minimum_operations_to_sort_a_permutation.cpp) |
@@ -198,5 +202,14 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | 1124-div3 / B | Stack / Simulation | [C++](codeforces/codeforces_rouds/1124-div3/b.cpp) |
 | 1124-div3 / C | Hash Map / Counting | [C++](codeforces/codeforces_rouds/1124-div3/c.cpp) |
 | 1124-div3 / D | Binary Search / Greedy | [C++](codeforces/codeforces_rouds/1124-div3/d.cpp) |
+| Bootcamp / P1 | Arrays / Reversal | [C++](codeforces/100_easy_problems_bootcamps/p1.cpp), [Rust](codeforces/100_easy_problems_bootcamps/p1.rs) |
+| Bootcamp / P2 | Arrays / Range Sum | [C++](codeforces/100_easy_problems_bootcamps/p2.cpp) |
+| Bootcamp / P3 | Strings / Abbreviation | [C++](codeforces/100_easy_problems_bootcamps/p3.cpp) |
 
 The `1124-div3` entries use the local folder label; contest details and problem links are pending verification.
+
+The bootcamp entries use local exercise labels; problem links are pending verification.
+
+## Templates
+
+- [Rust starter template](codeforces/template.rs)
