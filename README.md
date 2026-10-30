@@ -153,6 +153,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Arrays / Sorting / Enumeration | [C++](leetcode/3886-sum_of_sortable_integers.cpp) |
 | [3942. Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Arrays / Math | [C++](leetcode/3942-minimum_operations_to_sort_a_permutation.cpp) |
 | [3963. Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Matrix / Construction | [C++](leetcode/3963-create_grid_with_exactly_one_path.cpp) |
+| [3970. Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | Graph / Dijkstra | [C++](leetcode/3970-shortest_path_with_at_most_k_consecutive_identical_characters.cpp) |
 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/contests/weekly/522/01-minimum_rotation_to_dial_1.cpp) |
 | [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) (Weekly Contest 522) | Strings / Enumeration | [C++](leetcode/contests/weekly/522/02-minimum_rotation_to_dial_2.cpp) |
 | [Maximum Product Pair With Target Sum](https://leetcode.com/contest/biweekly-contest-193/problems/maximum-product-pair-with-target-sum/) (Biweekly Contest 193) | Arrays / Hash Map | [C++](leetcode/contests/biweekly/193/q1.cpp) |
@@ -205,6 +206,8 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | Bootcamp / P1 | Arrays / Reversal | [C++](codeforces/100_easy_problems_bootcamps/p1.cpp), [Rust](codeforces/100_easy_problems_bootcamps/p1.rs) |
 | Bootcamp / P2 | Arrays / Range Sum | [C++](codeforces/100_easy_problems_bootcamps/p2.cpp) |
 | Bootcamp / P3 | Strings / Abbreviation | [C++](codeforces/100_easy_problems_bootcamps/p3.cpp) |
+| Bootcamp / P4 | Strings / Case-Insensitive Comparison | [C++](codeforces/100_easy_problems_bootcamps/p4.cpp), [Rust](codeforces/100_easy_problems_bootcamps/p4.rs) |
+| Bootcamp / P5 | Strings / Consecutive Counting | [C++](codeforces/100_easy_problems_bootcamps/p5.cpp) |
 
 The `1124-div3` entries use the local folder label; contest details and problem links are pending verification.
 
