@@ -52,65 +52,65 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 
 | Problem | Topic | Solution |
 |---|---|---|
-| [1. Two Sum](https://leetcode.com/problems/two-sum/) | Hash Map | [C++](leetcode/01-two_sum.cpp) |
-| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List / Math | [C++](leetcode/2-add_two_numbers.cpp) |
-| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Strings / Backtracking | [C++](leetcode/17-letter_combinations_of_a_phone_number.cpp) |
-| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Strings / Stack | [C++](leetcode/20-valid_parentheses.cpp) |
-| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Strings / Backtracking | [C++](leetcode/22-generate_parentheses.cpp) |
-| [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Strings / Stack | [C++](leetcode/32-longest_valid_parentheses.cpp) |
-| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Matrix / Hash Set | [C++](leetcode/36-valid_sudoku.cpp) |
-| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Strings / Hash Map / Counting | [C++](leetcode/49-group_anagrams.cpp) |
-| [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Dynamic Programming | [C++](leetcode/62-unique_paths.cpp) |
-| [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Strings / Dynamic Programming | [C++](leetcode/72-edit_distance.cpp) |
-| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Binary Tree / DFS | [C++](leetcode/104-maximum_depth_binary_tree.cpp) |
-| [136. Single Number](https://leetcode.com/problems/single-number/) | Arrays / Bit Manipulation | [C++](leetcode/136-single_number.cpp) |
-| [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Strings / Two Pointers | [C++](leetcode/152-reverse_words_in_a_string.cpp) |
-| [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Arrays / Binary Search | [C++](leetcode/162-find_peak_element.cpp) |
-| [198. House Robber](https://leetcode.com/problems/house-robber/) | Arrays / Dynamic Programming | [C++](leetcode/198-house_robber.cpp) |
-| [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree / BFS | [C++](leetcode/199-binary_tree_right_side_view.cpp) |
-| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List | [C++](leetcode/206-reverse_linked_list.cpp) |
-| [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Trie / Design | [C++](leetcode/208-implement_trie_prefix_tree.cpp) |
-| [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Arrays / Selection | [C++](leetcode/215-kth_largest_element_in_an_array.cpp) |
-| [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Backtracking | [C++](leetcode/216-combination_sum_iii.cpp) |
-| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays / Hash Set | [C++](leetcode/217-contains_duplicate.cpp) |
-| [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Binary Tree / DFS | [C++](leetcode/236-lowest_common_ancestor_binary_tree.cpp) |
-| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Arrays / Prefix Product | [C++](leetcode/238-product_of_array_except_self.cpp) |
-| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Strings / Counting | [C++](leetcode/242-valid_anagram.cpp) |
-| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays / Two Pointers | [C++](leetcode/283-move_zeroes.cpp) |
-| [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Linked List / Two Pointers | [C++](leetcode/328-odd_even_linked_list.cpp) |
-| [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Arrays / Greedy | [C++](leetcode/334-increasing_triplet_subsequence.cpp) |
-| [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Bit Manipulation / Dynamic Programming | [C++](leetcode/338-counting_bits.cpp) |
-| [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Strings / Two Pointers | [C++](leetcode/345-reverse_vowels_of_a_string.cpp) |
-| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Arrays / Hash Map / Bucket Sort | [C++](leetcode/347-top_k_frequent_elements.cpp) |
-| [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Binary Search | [C++](leetcode/374-guess_number_higher_or_lower.cpp) |
-| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Strings / Two Pointers | [C++](leetcode/392-is_subsequence.cpp) |
-| [394. Decode String](https://leetcode.com/problems/decode-string/) | Strings / Stack | [C++](leetcode/394-decode_string.cpp) |
-| [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Graph / DFS | [C++](leetcode/399-evaluate_division.cpp) |
-| [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Arrays / Sorting / Greedy | [C++](leetcode/435-non_overlapping_intervals.cpp) |
-| [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Binary Tree / DFS | [C++](leetcode/437-path_sum_lll.cpp) |
-| [443. String Compression](https://leetcode.com/problems/string-compression/) | Strings / Two Pointers | [C++](leetcode/443-string_compression.cpp) |
-| [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Binary Search Tree / Recursion | [C++](leetcode/450-delete_node_in_a_bst.cpp) |
-| [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Arrays / Sorting / Greedy | [C++](leetcode/452-minimum_number_of_arrows_to_burst_balloons.cpp) |
-| [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Graph / DFS | [C++](leetcode/547-number_of_provinces.cpp) |
-| [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Arrays / Greedy | [C++](leetcode/605-can_place_flowers.cpp) |
-| [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Arrays / Sliding Window | [C++](leetcode/643-maximum_average_subarray.cpp) |
-| [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Queue / Greedy / Simulation | [C++](leetcode/649-dota2_senate.cpp) |
-| [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Strings / Greedy | [C++](leetcode/678-valid_parenthesis_string.cpp) |
-| [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Binary Search Tree | [C++](leetcode/700-search_in_a_binary_search_tree.cpp) |
-| [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Arrays / Dynamic Programming | [C++](leetcode/714-best_time_to_buy_and_sell_stock_with_transaction_fee.cpp) |
-| [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Arrays / Prefix Sum | [C++](leetcode/724-find_pivot_index.cpp) |
-| [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Stack / Simulation | [C++](leetcode/735-asteroid_collision.cpp) |
-| [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Arrays / Monotonic Stack | [C++](leetcode/739-daily_temperatures.cpp) |
-| [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Arrays / Dynamic Programming | [C++](leetcode/746-min_cost_climbing_stairs.cpp) |
-| [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | Dynamic Programming | [C++](leetcode/790-domino_and_tromino_tiling.cpp) |
-| [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Graph / DFS | [C++](leetcode/841-keys_and_rooms.cpp) |
-| [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Strings / Stack | [C++](leetcode/856-score_of_parentheses.cpp) |
-| [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Binary Tree / DFS | [C++](leetcode/872-leaf_similar_trees.cpp) |
-| [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Arrays / Binary Search | [C++](leetcode/875-koko_eating_bananas.cpp) |
-| [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Monotonic Stack / Design | [C++](leetcode/901-online_stock_span.cpp) |
-| [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Strings / Greedy | [C++](leetcode/921-minimum_add_to_make_parentheses_valid.cpp) |
-| [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue / Sliding Window | [C++](leetcode/933-number_of_recent_calls.cpp) |
-| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Matrix / BFS | [C++](leetcode/994-rotting_oranges.cpp) |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | Hash Map | [C++](leetcode/0001-two_sum.cpp) |
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List / Math | [C++](leetcode/0002-add_two_numbers.cpp) |
+| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Strings / Backtracking | [C++](leetcode/0017-letter_combinations_of_a_phone_number.cpp) |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Strings / Stack | [C++](leetcode/0020-valid_parentheses.cpp) |
+| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Strings / Backtracking | [C++](leetcode/0022-generate_parentheses.cpp) |
+| [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Strings / Stack | [C++](leetcode/0032-longest_valid_parentheses.cpp) |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Matrix / Hash Set | [C++](leetcode/0036-valid_sudoku.cpp) |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Strings / Hash Map / Counting | [C++](leetcode/0049-group_anagrams.cpp) |
+| [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Dynamic Programming | [C++](leetcode/0062-unique_paths.cpp) |
+| [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Strings / Dynamic Programming | [C++](leetcode/0072-edit_distance.cpp) |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Binary Tree / DFS | [C++](leetcode/0104-maximum_depth_binary_tree.cpp) |
+| [136. Single Number](https://leetcode.com/problems/single-number/) | Arrays / Bit Manipulation | [C++](leetcode/0136-single_number.cpp) |
+| [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Strings / Two Pointers | [C++](leetcode/0152-reverse_words_in_a_string.cpp) |
+| [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Arrays / Binary Search | [C++](leetcode/0162-find_peak_element.cpp) |
+| [198. House Robber](https://leetcode.com/problems/house-robber/) | Arrays / Dynamic Programming | [C++](leetcode/0198-house_robber.cpp) |
+| [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree / BFS | [C++](leetcode/0199-binary_tree_right_side_view.cpp) |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List | [C++](leetcode/0206-reverse_linked_list.cpp) |
+| [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Trie / Design | [C++](leetcode/0208-implement_trie_prefix_tree.cpp) |
+| [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Arrays / Selection | [C++](leetcode/0215-kth_largest_element_in_an_array.cpp) |
+| [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Backtracking | [C++](leetcode/0216-combination_sum_iii.cpp) |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays / Hash Set | [C++](leetcode/0217-contains_duplicate.cpp) |
+| [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Binary Tree / DFS | [C++](leetcode/0236-lowest_common_ancestor_binary_tree.cpp) |
+| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Arrays / Prefix Product | [C++](leetcode/0238-product_of_array_except_self.cpp) |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Strings / Counting | [C++](leetcode/0242-valid_anagram.cpp) |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays / Two Pointers | [C++](leetcode/0283-move_zeroes.cpp) |
+| [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Linked List / Two Pointers | [C++](leetcode/0328-odd_even_linked_list.cpp) |
+| [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Arrays / Greedy | [C++](leetcode/0334-increasing_triplet_subsequence.cpp) |
+| [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Bit Manipulation / Dynamic Programming | [C++](leetcode/0338-counting_bits.cpp) |
+| [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Strings / Two Pointers | [C++](leetcode/0345-reverse_vowels_of_a_string.cpp) |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Arrays / Hash Map / Bucket Sort | [C++](leetcode/0347-top_k_frequent_elements.cpp) |
+| [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Binary Search | [C++](leetcode/0374-guess_number_higher_or_lower.cpp) |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Strings / Two Pointers | [C++](leetcode/0392-is_subsequence.cpp) |
+| [394. Decode String](https://leetcode.com/problems/decode-string/) | Strings / Stack | [C++](leetcode/0394-decode_string.cpp) |
+| [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Graph / DFS | [C++](leetcode/0399-evaluate_division.cpp) |
+| [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Arrays / Sorting / Greedy | [C++](leetcode/0435-non_overlapping_intervals.cpp) |
+| [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Binary Tree / DFS | [C++](leetcode/0437-path_sum_lll.cpp) |
+| [443. String Compression](https://leetcode.com/problems/string-compression/) | Strings / Two Pointers | [C++](leetcode/0443-string_compression.cpp) |
+| [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Binary Search Tree / Recursion | [C++](leetcode/0450-delete_node_in_a_bst.cpp) |
+| [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Arrays / Sorting / Greedy | [C++](leetcode/0452-minimum_number_of_arrows_to_burst_balloons.cpp) |
+| [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Graph / DFS | [C++](leetcode/0547-number_of_provinces.cpp) |
+| [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Arrays / Greedy | [C++](leetcode/0605-can_place_flowers.cpp) |
+| [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Arrays / Sliding Window | [C++](leetcode/0643-maximum_average_subarray.cpp) |
+| [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Queue / Greedy / Simulation | [C++](leetcode/0649-dota2_senate.cpp) |
+| [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Strings / Greedy | [C++](leetcode/0678-valid_parenthesis_string.cpp) |
+| [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Binary Search Tree | [C++](leetcode/0700-search_in_a_binary_search_tree.cpp) |
+| [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Arrays / Dynamic Programming | [C++](leetcode/0714-best_time_to_buy_and_sell_stock_with_transaction_fee.cpp) |
+| [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Arrays / Prefix Sum | [C++](leetcode/0724-find_pivot_index.cpp) |
+| [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Stack / Simulation | [C++](leetcode/0735-asteroid_collision.cpp) |
+| [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Arrays / Monotonic Stack | [C++](leetcode/0739-daily_temperatures.cpp) |
+| [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Arrays / Dynamic Programming | [C++](leetcode/0746-min_cost_climbing_stairs.cpp) |
+| [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | Dynamic Programming | [C++](leetcode/0790-domino_and_tromino_tiling.cpp) |
+| [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Graph / DFS | [C++](leetcode/0841-keys_and_rooms.cpp) |
+| [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Strings / Stack | [C++](leetcode/0856-score_of_parentheses.cpp) |
+| [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Binary Tree / DFS | [C++](leetcode/0872-leaf_similar_trees.cpp) |
+| [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Arrays / Binary Search | [C++](leetcode/0875-koko_eating_bananas.cpp) |
+| [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Monotonic Stack / Design | [C++](leetcode/0901-online_stock_span.cpp) |
+| [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Strings / Greedy | [C++](leetcode/0921-minimum_add_to_make_parentheses_valid.cpp) |
+| [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue / Sliding Window | [C++](leetcode/0933-number_of_recent_calls.cpp) |
+| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Matrix / BFS | [C++](leetcode/0994-rotting_oranges.cpp) |
 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Strings / Counting | [C++](leetcode/1021-remove_outermost_parentheses.cpp) |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Strings / GCD | [C++](leetcode/1071-greatest_common_divisor_of_strings.cpp) |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Dynamic Programming | [C++](leetcode/1137-n_th_tribonacci_number.cpp) |
@@ -166,21 +166,21 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 
 | Problem | Topic | Solution |
 |---|---|---|
-| [4A. Watermelon](https://codeforces.com/contest/4/problem/A) | Math / Conditions | [C++](codeforces/4a-watermelon.cpp) |
-| [33A. What is for dinner?](https://codeforces.com/problemset/problem/33/A) | Arrays / Greedy | [C++](codeforces/33a-what_is_for_dinner.cpp) |
-| [50A. Domino piling](https://codeforces.com/problemset/problem/50/A) | Math / Greedy | [C++](codeforces/50a-domino_poling.cpp) |
-| [69A. Young Physicist](https://codeforces.com/problemset/problem/69/A) | Math / Vectors | [C++](codeforces/69a-young_physicist.cpp) |
-| [71A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | Strings | [C++](codeforces/71a-way_too_long_words.cpp) |
-| [112A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) | Strings / Comparison | [C++](codeforces/112a-petya_and_strigs.cpp) |
-| [158A. Next Round](https://codeforces.com/problemset/problem/158/A) | Counting / Conditions | [C++](codeforces/158a-next_round.cpp) |
-| [218B. Airport](https://codeforces.com/problemset/problem/218/B) | Heap / Greedy | [C++](codeforces/218b-airport.cpp) |
-| [231A. Team](https://codeforces.com/problemset/problem/231/A) | Counting / Conditions | [C++](codeforces/231a-team.cpp) |
-| [236A. Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Strings / Counting | [C++](codeforces/236a-boy_or_girl.cpp) |
-| [263A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Matrices / Math | [C++](codeforces/263A-beautiful_matrix.cpp) |
-| [271A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) | Math / Enumeration / Counting | [C++](codeforces/271a-beautiful_year.cpp) |
-| [281A. Word Capitalization](https://codeforces.com/problemset/problem/281/A) | Strings | [C++](codeforces/281a-word_capitalization.cpp) |
-| [282A. Bit++](https://codeforces.com/problemset/problem/282/A) | Strings / Simulation | [C++](codeforces/282a-bit++.cpp) |
-| [339A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) | Strings / Sorting | [C++](codeforces/339a-helpful_maths.cpp) |
+| [4A. Watermelon](https://codeforces.com/contest/4/problem/A) | Math / Conditions | [C++](codeforces/0004a-watermelon.cpp) |
+| [33A. What is for dinner?](https://codeforces.com/problemset/problem/33/A) | Arrays / Greedy | [C++](codeforces/0033a-what_is_for_dinner.cpp) |
+| [50A. Domino piling](https://codeforces.com/problemset/problem/50/A) | Math / Greedy | [C++](codeforces/0050a-domino_poling.cpp) |
+| [69A. Young Physicist](https://codeforces.com/problemset/problem/69/A) | Math / Vectors | [C++](codeforces/0069a-young_physicist.cpp) |
+| [71A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | Strings | [C++](codeforces/0071a-way_too_long_words.cpp) |
+| [112A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) | Strings / Comparison | [C++](codeforces/0112a-petya_and_strigs.cpp) |
+| [158A. Next Round](https://codeforces.com/problemset/problem/158/A) | Counting / Conditions | [C++](codeforces/0158a-next_round.cpp) |
+| [218B. Airport](https://codeforces.com/problemset/problem/218/B) | Heap / Greedy | [C++](codeforces/0218b-airport.cpp) |
+| [231A. Team](https://codeforces.com/problemset/problem/231/A) | Counting / Conditions | [C++](codeforces/0231a-team.cpp) |
+| [236A. Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Strings / Counting | [C++](codeforces/0236a-boy_or_girl.cpp) |
+| [263A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Matrices / Math | [C++](codeforces/0263A-beautiful_matrix.cpp) |
+| [271A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) | Math / Enumeration / Counting | [C++](codeforces/0271a-beautiful_year.cpp) |
+| [281A. Word Capitalization](https://codeforces.com/problemset/problem/281/A) | Strings | [C++](codeforces/0281a-word_capitalization.cpp) |
+| [282A. Bit++](https://codeforces.com/problemset/problem/282/A) | Strings / Simulation | [C++](codeforces/0282a-bit++.cpp) |
+| [339A. Helpful Maths](https://codeforces.com/problemset/problem/339/A) | Strings / Sorting | [C++](codeforces/0339a-helpful_maths.cpp) |
 | [1691E. Number of Groups](https://codeforces.com/problemset/problem/1691/E) | Sorting / Sweep Line / Disjoint Set Union | [C++](codeforces/1691e-number_of_groups.cpp) |
 | [1861C. Queries for the Array](https://codeforces.com/problemset/problem/1861/C) | Strings / Greedy / Simulation | [C++](codeforces/1861c-queries_for_the_array.cpp) |
 | [1913B. Swap and Delete](https://codeforces.com/problemset/problem/1913/B) | Strings / Counting / Greedy | [C++](codeforces/1913b-swap_and_delete.cpp) |
