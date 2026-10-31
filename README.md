@@ -74,6 +74,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Backtracking | [C++](leetcode/216-combination_sum_iii.cpp) |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays / Hash Set | [C++](leetcode/217-contains_duplicate.cpp) |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Binary Tree / DFS | [C++](leetcode/236-lowest_common_ancestor_binary_tree.cpp) |
+| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Arrays / Prefix Product | [C++](leetcode/238-product_of_array_except_self.cpp) |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Strings / Counting | [C++](leetcode/242-valid_anagram.cpp) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Arrays / Two Pointers | [C++](leetcode/283-move_zeroes.cpp) |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Linked List / Two Pointers | [C++](leetcode/328-odd_even_linked_list.cpp) |
@@ -208,6 +209,10 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | Bootcamp / P3 | Strings / Abbreviation | [C++](codeforces/100_easy_problems_bootcamps/p3.cpp) |
 | Bootcamp / P4 | Strings / Case-Insensitive Comparison | [C++](codeforces/100_easy_problems_bootcamps/p4.cpp), [Rust](codeforces/100_easy_problems_bootcamps/p4.rs) |
 | Bootcamp / P5 | Strings / Consecutive Counting | [C++](codeforces/100_easy_problems_bootcamps/p5.cpp) |
+| Bootcamp / P6 | Strings / Counting Sort | [C++](codeforces/100_easy_problems_bootcamps/p6.cpp) |
+| Bootcamp / P7 | Strings / Filtering | [C++](codeforces/100_easy_problems_bootcamps/p7.cpp) |
+| Bootcamp / P8 | Intervals / Greedy / Simulation | [C++](codeforces/100_easy_problems_bootcamps/p8.cpp) |
+| Bootcamp / P9 | Strings / Counting / Greedy | [C++](codeforces/100_easy_problems_bootcamps/p9.cpp) |
 
 The `1124-div3` entries use the local folder label; contest details and problem links are pending verification.
 
