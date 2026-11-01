@@ -63,6 +63,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Dynamic Programming | [C++](leetcode/0062-unique_paths.cpp) |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Strings / Dynamic Programming | [C++](leetcode/0072-edit_distance.cpp) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Binary Tree / DFS | [C++](leetcode/0104-maximum_depth_binary_tree.cpp) |
+| [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Arrays / Hash Set | [C++](leetcode/0128-longest_consecutive_sequence.cpp) |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Arrays / Bit Manipulation | [C++](leetcode/0136-single_number.cpp) |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Strings / Two Pointers | [C++](leetcode/0152-reverse_words_in_a_string.cpp) |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Arrays / Binary Search | [C++](leetcode/0162-find_peak_element.cpp) |
@@ -91,6 +92,8 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Strings / Two Pointers | [C++](leetcode/0443-string_compression.cpp) |
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Binary Search Tree / Recursion | [C++](leetcode/0450-delete_node_in_a_bst.cpp) |
 | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Arrays / Sorting / Greedy | [C++](leetcode/0452-minimum_number_of_arrows_to_burst_balloons.cpp) |
+| [453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Arrays / Math | [C++](leetcode/0453-minimum_moves_to_equal_array_elements.cpp) |
+| [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Arrays / Sorting / Math | [C++](leetcode/0462-minimum_moves_to_equal_array_elements_ii.cpp) |
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Graph / DFS | [C++](leetcode/0547-number_of_provinces.cpp) |
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Arrays / Greedy | [C++](leetcode/0605-can_place_flowers.cpp) |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Arrays / Sliding Window | [C++](leetcode/0643-maximum_average_subarray.cpp) |
