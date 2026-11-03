@@ -152,6 +152,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [3619. Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Matrix / DFS | [C++](leetcode/3619-count_islands_with_total_value_divisible_by_k.cpp) |
 | [3644. Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Arrays / Bit Manipulation | [C++](leetcode/3644-maximum_k_to_sort_a_permutation.cpp) |
 | [3727. Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Arrays / Sorting / Greedy | [C++](leetcode/3727-maximum_alternating_sum_of_squares.cpp) |
+| [3736. Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Arrays / Math | [C++](leetcode/3736-minimum_moves_to_equal_array_elements_iii.cpp) |
 | [3841. Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Tree / Heavy-Light Decomposition / Fenwick Tree / Bit Manipulation | [C++](leetcode/3841-palindromic_path_queries_in_a_tree.cpp) |
 | [3863. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Strings / Greedy | [C++](leetcode/3863-minimum_operations_to_sort_a_string.cpp) |
 | [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Arrays / Sorting / Enumeration | [C++](leetcode/3886-sum_of_sortable_integers.cpp) |
