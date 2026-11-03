@@ -218,6 +218,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | Bootcamp / P8 | Intervals / Greedy / Simulation | [C++](codeforces/100_easy_problems_bootcamps/p8.cpp) |
 | Bootcamp / P9 | Strings / Counting / Greedy | [C++](codeforces/100_easy_problems_bootcamps/p9.cpp) |
 | Bootcamp / P13 | Math / Divisors / Geometry | [C++](codeforces/100_easy_problems_bootcamps/p13.cpp) |
+| Bootcamp / P16 | Number Theory / Sieve / Prime Factor Counting | [C++](codeforces/100_easy_problems_bootcamps/p16.cpp) |
 
 The `1124-div3` entries use the local folder label; contest details and problem links are pending verification.
 
