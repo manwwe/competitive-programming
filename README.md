@@ -146,6 +146,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [2409. Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Strings / Date Conversion / Intervals | [C++](leetcode/2409-count_days_spent_together.cpp) |
 | [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | Arrays / Heap / Two Pointers | [C++](leetcode/2462-total_cost_to_hire_k_workers.cpp) |
 | [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | Arrays / Sorting / Heap / Greedy | [C++](leetcode/2542-maximum_subsequence_score.cpp) |
+| [2747. Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | Arrays / Sorting / Sliding Window | [C++](leetcode/2747-count_zero_request_servers.cpp) |
 | [2778. Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Arrays / Math | [C++](leetcode/2778-sum_of_square_of_special_element.cpp) |
 | [2913. Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Arrays / Set / Enumeration | [C++](leetcode/2913-subarrays_disctinc_elements_sqaures.cpp) |
 | [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Arrays / Segment Tree / Lazy Propagation | [C++](leetcode/2916-subarray_distinc_element_sum_sequences.cpp) |
