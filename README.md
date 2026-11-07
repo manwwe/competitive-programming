@@ -63,10 +63,12 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Dynamic Programming | [C++](leetcode/0062-unique_paths.cpp) |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Strings / Dynamic Programming | [C++](leetcode/0072-edit_distance.cpp) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Binary Tree / DFS | [C++](leetcode/0104-maximum_depth_binary_tree.cpp) |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Strings / Two Pointers | [C++](leetcode/0125-valid_palindrome.cpp) |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Arrays / Hash Set | [C++](leetcode/0128-longest_consecutive_sequence.cpp) |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Arrays / Bit Manipulation | [C++](leetcode/0136-single_number.cpp) |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Strings / Two Pointers | [C++](leetcode/0152-reverse_words_in_a_string.cpp) |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Arrays / Binary Search | [C++](leetcode/0162-find_peak_element.cpp) |
+| [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Arrays / Two Pointers | [C++](leetcode/0167-two_sum_ii_input_array_is_sorted.cpp) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Arrays / Dynamic Programming | [C++](leetcode/0198-house_robber.cpp) |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree / BFS | [C++](leetcode/0199-binary_tree_right_side_view.cpp) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List | [C++](leetcode/0206-reverse_linked_list.cpp) |
