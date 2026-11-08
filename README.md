@@ -54,6 +54,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 |---|---|---|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Hash Map | [C++](leetcode/0001-two_sum.cpp) |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List / Math | [C++](leetcode/0002-add_two_numbers.cpp) |
+| [15. 3Sum](https://leetcode.com/problems/3sum/) | Arrays / Sorting / Two Pointers | [C++](leetcode/0015-3sum.cpp) |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Strings / Backtracking | [C++](leetcode/0017-letter_combinations_of_a_phone_number.cpp) |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Strings / Stack | [C++](leetcode/0020-valid_parentheses.cpp) |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Strings / Backtracking | [C++](leetcode/0022-generate_parentheses.cpp) |
