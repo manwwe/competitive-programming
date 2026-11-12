@@ -161,6 +161,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [3693. Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | Arrays / Dynamic Programming | [C++](leetcode/3693-climbing_stairs_ii.cpp) |
 | [3727. Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Arrays / Sorting / Greedy | [C++](leetcode/3727-maximum_alternating_sum_of_squares.cpp) |
 | [3736. Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Arrays / Math | [C++](leetcode/3736-minimum_moves_to_equal_array_elements_iii.cpp) |
+| [3789. Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Math / Greedy | [C++](leetcode/3789-minimum_cost_to_acquire_required_items.cpp) |
 | [3841. Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Tree / Heavy-Light Decomposition / Fenwick Tree / Bit Manipulation | [C++](leetcode/3841-palindromic_path_queries_in_a_tree.cpp) |
 | [3863. Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Strings / Greedy | [C++](leetcode/3863-minimum_operations_to_sort_a_string.cpp) |
 | [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Arrays / Sorting / Enumeration | [C++](leetcode/3886-sum_of_sortable_integers.cpp) |
