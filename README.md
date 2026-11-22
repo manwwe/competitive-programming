@@ -142,6 +142,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Graph / BFS / Matrix | [C++](leetcode/1926-nearest_exit_from_entrance_in_maze.cpp) |
 | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Arrays / Counting | [C++](leetcode/2089-find_target_indices_after_sorting_array.cpp) |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Linked List / Two Pointers | [C++](leetcode/2095-delete_midlle_node.cpp) |
+| [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Strings | [C++](leetcode/2124-check_if_all_as_appears_before_all_bs.cpp) |
 | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Arrays / Hash Set | [C++](leetcode/2215-find_the_difference_of_two_arrays.cpp) |
 | [2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Strings / Simulation | [C++](leetcode/2243-calculate_digit_sum_of_a_string.cpp) |
 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Arrays / Sorting / Binary Search | [C++](leetcode/2300-successful_pairs_of_spells_and_potions.cpp) |
