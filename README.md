@@ -125,6 +125,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Matrix / DFS / Flood Fill | [C++](leetcode/1254-number_of_closed_inslands.cpp) |
 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | Strings / Sorting / Binary Search | [C++](leetcode/1268-search_suggestions_system.cpp) |
 | [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Bit Manipulation | [C++](leetcode/1318-minimum_flips_to_make_a_or_b_equal_to_c.cpp) |
+| [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Design / Prefix Product | [C++](leetcode/1352-product_of_the_last_k_numbers.cpp) |
 | [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Binary Tree / DFS | [C++](leetcode/1372-longest_zigzag_path_binary_tree.cpp) |
 | [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Arrays / Sorting / Binary Search | [C++](leetcode/1385-find_the_distance_value_between_two_arrays.cpp) |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Arrays | [C++](leetcode/1431-kids_with_the_greatest_number.cpp) |
