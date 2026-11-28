@@ -181,6 +181,7 @@ I'm solving beginner problems and gradually increasing the difficulty as I becom
 | [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | Arrays / Sorting / Enumeration | [C++](leetcode/3886-sum_of_sortable_integers.cpp) |
 | [3934. Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | Arrays / Suffix Array / LCP | [C++](leetcode/3934-smallest_unique_subarray.cpp) |
 | [3942. Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Arrays / Math | [C++](leetcode/3942-minimum_operations_to_sort_a_permutation.cpp) |
+| [3946. Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | Arrays / Dynamic Programming / Knapsack | [C++](leetcode/3946-maximum_number_of_items_from_sale_i.cpp) |
 | [3963. Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Matrix / Construction | [C++](leetcode/3963-create_grid_with_exactly_one_path.cpp) |
 | [3970. Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | Graph / Dijkstra | [C++](leetcode/3970-shortest_path_with_at_most_k_consecutive_identical_characters.cpp) |
 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) (Weekly Contest 522) | Strings / Greedy | [C++](leetcode/contests/weekly/522/01-minimum_rotation_to_dial_1.cpp) |
